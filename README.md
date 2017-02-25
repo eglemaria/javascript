@@ -1,0 +1,2 @@
+# javascript
+easy game
