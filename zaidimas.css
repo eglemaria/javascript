@@ -1,0 +1,52 @@
+body {
+   
+    background-image:url(img/img1.jpg)
+}
+
+ body {
+                
+     font-family: sans-serif;
+                
+ }
+        
+ #shape {
+                
+     width: 200px;
+     height: 200px;
+     background-color: red;
+     display: none;
+     position: relative;
+                
+ }
+            
+.bold {
+                
+    font-weight: bold;
+                
+}
+
+h1 {
+    
+    font-family: monospace;
+    color: palevioletred;
+    text-align: center;
+    font-size: 33px;
+        
+}
+
+p {
+    
+    color: deeppink;
+    font-family: monospace;
+    font-size: 28px;
+    text-align: left;
+}
+.bold  {
+    color: darkcyan;
+    font-size: 25px;
+    text-align: left;
+    
+    
+    
+    
+}
